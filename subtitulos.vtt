@@ -1,13 +1,199 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:05.000
-Buenas tardes, soy Iratxe Remón, estudiante de DAW en el politécnico de Estella
+00:00:00.000 --> 00:00:02.430  
+Buenas tardes, soy Iratxe Remón,  
 
-00:00:05.000 --> 00:00:11.000
-Y este es un videotutorial sobre la página web 'Vida con patitas' que fue creada para el módulo de 'Diseño de Interfaces Web'
+00:00:02.430 --> 00:00:04.470  
+estudiante de DAW en el Politécnico de Estella  
 
-00:00:12.000 --> 00:00:24.000
-Este es un proyecto diseñado para facilitar la adopción de mascotas y para conectar a animales que necesitan un hogar, con personas que están buscando una mascota o realizar una adopción de una forma responsable
+00:00:04.860 --> 00:00:06.690  
+y este es un videotutorial sobre la página  
 
-00:00:28.000 --> 00:00:30.000
-Primeramente tendríamos...
+00:00:06.690 --> 00:00:08.830  
+web Vida con Patitas que fue creada para  
+
+00:00:08.830 --> 00:00:10.650  
+el módulo de diseño de interfaces web.  
+
+00:00:11.580 --> 00:00:13.750  
+Este es un proyecto diseñado para facilitar  
+
+00:00:13.750 --> 00:00:16.270  
+la adopción de mascotas y para conectar a  
+
+00:00:16.270 --> 00:00:18.430  
+animales que necesitan un hogar con  
+
+00:00:18.430 --> 00:00:20.710  
+personas que están buscando una mascota  
+
+00:00:20.860 --> 00:00:23.420    
+o realizar una adopción de una forma  responsable. 
+
+
+ 
+
+00:00:27.160 --> 00:00:28.970  
+Primeramente tendríamos la pantalla  
+
+00:00:28.970 --> 00:00:31.690  
+inicial en la que se puede ver el nombre de  
+
+00:00:31.690 --> 00:00:33.240  
+nuestra web y el eslogan.  
+
+00:00:34.390 --> 00:00:37.330  
+Después tendríamos una pantalla de inicio  
+
+00:00:37.330 --> 00:00:39.070  
+de sesión, en la que podemos iniciar sesión  
+
+00:00:39.070 --> 00:00:41.080  
+si ya tenemos un usuario creado.  
+
+00:00:41.910 --> 00:00:44.530  
+Y si no tenemos un usuario, mediante este  
+
+00:00:44.530 --> 00:00:47.090  
+botón de aquí, podríamos acceder a la  
+
+00:00:47.090 --> 00:00:47.930  
+pantalla de registro.  
+
+00:00:48.990 --> 00:00:50.530  
+Nosotros, como ya tenemos un usuario  
+
+00:00:50.530 --> 00:00:52.730  
+creado, vamos a iniciar sesión.  
+
+00:00:56.790 --> 00:00:58.570  
+Una vez que hemos iniciado sesión, lo  
+
+00:00:58.570 --> 00:00:59.610  
+primero que podemos ver es  
+
+00:00:59.730 --> 00:01:01.610  
+que en el menú de navegación ya sale  
+
+00:01:01.610 --> 00:01:04.330  
+nuestro nombre de usuario y también  
+
+00:01:04.510 --> 00:01:06.390  
+podemos ver que nos lleva directamente a  
+
+00:01:06.390 --> 00:01:07.650  
+la página de animales.  
+
+00:01:08.440 --> 00:01:10.770  
+En esta pantalla podemos ver una lista con  
+
+00:01:10.770 --> 00:01:12.670  
+los animales que están actualmente en  
+
+00:01:12.670 --> 00:01:16.670  
+adopción y en la parte izquierda tenemos  
+
+00:01:16.670 --> 00:01:19.070  
+una serie de filtros mediante los cuales  
+
+00:01:19.070 --> 00:01:21.210  
+podemos buscar el animal que nosotros  
+
+00:01:21.210 --> 00:01:21.870  
+necesitamos.  
+
+00:01:21.870 --> 00:01:24.230  
+Por ejemplo, estamos buscando un perro  
+
+00:01:24.700 --> 00:01:27.890  
+que sea de un tamaño mediano. 
+
+00:01:27.890 --> 00:01:29.960  
+Lo seleccionamos en los filtros y  
+
+00:01:29.960 --> 00:01:31.740  
+seleccionamos el botón de aplicar filtros.  
+
+00:01:32.380 --> 00:01:34.180  
+De este modo nos abrirían los resultados  
+
+00:01:34.180 --> 00:01:35.480  
+que nosotros necesitamos.  
+
+00:01:36.730 --> 00:01:38.560  
+También, haciendo clic sobre cualquiera de  
+
+00:01:38.560 --> 00:01:41.660  
+los animales navegamos a esta pantalla o a  
+
+00:01:41.660 --> 00:01:44.040  
+una similar en la que nos aparecen los  
+
+00:01:44.040 --> 00:01:46.460  
+detalles de ese animal en concreto.  
+
+00:01:47.930 --> 00:01:50.200  
+Finalmente, tenemos la página de contacto  
+
+00:01:51.100 --> 00:01:52.820  
+y en esta podemos ver en la parte  
+
+00:01:52.820 --> 00:01:56.460  
+izquierda un formulario de contacto el cual  
+
+00:01:56.460 --> 00:01:58.340  
+se puede rellenar para enviar un correo  
+
+00:01:58.340 --> 00:01:58.980  
+directamente 
+
+00:01:59.710 --> 00:02:01.630  
+lo cual facilita mucho la adopción.  
+
+00:02:02.460 --> 00:02:05.850  
+Y en la parte derecha, tenemos dos tarjetas.  
+
+00:02:06.130 --> 00:02:07.970  
+En la primera tenemos información como  
+
+00:02:07.970 --> 00:02:11.070  
+el teléfono, la dirección o nuestro correo  
+
+00:02:11.070 --> 00:02:11.740  
+electrónico.  
+
+00:02:12.700 --> 00:02:15.470  
+Y en la otra tenemos la información de  
+
+00:02:15.470 --> 00:02:19.270  
+nuestras redes sociales mediante las  
+
+00:02:19.270 --> 00:02:21.990  
+cuales también podríamos o enviar un  
+
+00:02:21.990 --> 00:02:24.990  
+mensaje o estar al día de nuestras noticias,  
+
+00:02:25.110 --> 00:02:25.590  
+por ejemplo.  
+
+00:02:26.780 --> 00:02:28.940  
+Y bueno, como conclusión, yo creo que al  
+
+00:02:28.940 --> 00:02:30.710  
+final logramos crear una página web  
+
+00:02:30.720 --> 00:02:33.260  
+bastante sencilla e intuitiva y que cumple  
+
+00:02:33.260 --> 00:02:35.560  
+con su objetivo, que es facilitar el proceso  
+
+00:02:35.560 --> 00:02:36.510  
+de adopción de mascotas.  
+
+00:02:37.470 --> 00:02:41.160  
+Muchas gracias por ver este tutorial y un  
+
+00:02:41.160 --> 00:02:41.270  
+saludo.  
